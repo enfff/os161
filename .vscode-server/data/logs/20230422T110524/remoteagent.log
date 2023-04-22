@@ -1,0 +1,14 @@
+2023-04-22 11:05:25.005 [info] 
+
+
+
+
+2023-04-22 11:05:25.005 [info] Extension host agent started.
+2023-04-22 11:05:25.013 [debug] No uninstalled extensions found.
+2023-04-22 11:05:25.019 [info] Started initializing default profile extensions in extensions installation folder. file:///home/os161user/.vscode-server/extensions
+2023-04-22 11:05:25.054 [debug] ComputeTargetPlatform: linux-x64
+2023-04-22 11:05:25.061 [info] [127.0.0.1][af792b6b][ManagementConnection] New connection established.
+2023-04-22 11:05:25.065 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/os161user/.vscode-server/extensions
+2023-04-22 11:05:25.087 [info] Log level changed to info
+2023-04-22 11:05:25.611 [info] [127.0.0.1][ea8bb099][ExtensionHostConnection] New connection established.
+2023-04-22 11:05:25.632 [info] [127.0.0.1][ea8bb099][ExtensionHostConnection] <282> Launched Extension Host Process.
