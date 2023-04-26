@@ -27,7 +27,7 @@ docker volume list
 Run the container mounting the volume `os161-vol` as the home folder of user `enf`. Make sure to to change *<imagename>* with the name of your image
 
 ```bash
-docker run --volume os161-vol:/home/enf --name polito-os161 -itd polito-os161 /bin/bash
+docker run --volume os161-vol:/home/enf --name os161 -itd os161 /bin/bash
 ```
 
 If everything went well, you should see it by running

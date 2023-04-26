@@ -1,0 +1,26 @@
+2023-04-26 17:10:56.790 [info] 
+
+
+
+
+2023-04-26 17:10:56.790 [info] Extension host agent started.
+2023-04-26 17:10:56.799 [debug] No uninstalled extensions found.
+2023-04-26 17:10:56.806 [info] Started initializing default profile extensions in extensions installation folder. file:///home/os161user/.vscode-server/extensions
+2023-04-26 17:10:56.816 [debug] ComputeTargetPlatform: linux-x64
+2023-04-26 17:10:56.839 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/os161user/.vscode-server/extensions
+2023-04-26 17:10:56.968 [info] [127.0.0.1][f5039af6][ManagementConnection] New connection established.
+2023-04-26 17:10:57.015 [info] Log level changed to info
+2023-04-26 17:10:57.491 [info] [127.0.0.1][b9446220][ExtensionHostConnection] New connection established.
+2023-04-26 17:10:57.557 [info] [127.0.0.1][b9446220][ExtensionHostConnection] <270> Launched Extension Host Process.
+2023-04-26 17:11:08.810 [error] Error: getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+2023-04-26 17:11:13.943 [info] [127.0.0.1][f5039af6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-26 17:11:13.989 [info] [127.0.0.1][b9446220][ExtensionHostConnection] <270> Extension Host Process exited with code: 0, signal: null.
+2023-04-26 17:11:14.296 [info] [127.0.0.1][c99729f3][ManagementConnection] New connection established.
+2023-04-26 17:11:15.205 [info] [127.0.0.1][27bd35d9][ExtensionHostConnection] New connection established.
+2023-04-26 17:11:15.226 [info] [127.0.0.1][27bd35d9][ExtensionHostConnection] <694> Launched Extension Host Process.
+2023-04-26 17:11:39.508 [info] [127.0.0.1][c99729f3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-04-26 17:11:39.556 [info] [127.0.0.1][27bd35d9][ExtensionHostConnection] <694> Extension Host Process exited with code: 0, signal: null.
+2023-04-26 17:11:44.603 [info] [127.0.0.1][bb28f609][ManagementConnection] New connection established.
+2023-04-26 17:11:45.726 [info] [127.0.0.1][b0a86bc1][ExtensionHostConnection] New connection established.
+2023-04-26 17:11:45.750 [info] [127.0.0.1][b0a86bc1][ExtensionHostConnection] <1392> Launched Extension Host Process.
