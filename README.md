@@ -38,27 +38,7 @@ docker ps
 
 # Uninstall
 
-Make sure to delete the image, volume, container
-
-Stop the image you’re running by running the command
-
-```bash
-docker ps
->>
-CONTAINER ID   IMAGE                             COMMAND       CREATED         STATUS         PORTS     NAMES
-5f2f6ae4fcce   marcopalena/polito-os161:latest   "/bin/bash"   9 minutes ago   Up 9 minutes             polito-os161
->>
-
-docker stop 5f2f6ae4fcce 
->>
-5f2f6ae4fcce
-
-docker volume list
->>
-DRIVER    VOLUME NAME
-local     polito-os161-vol
-
-docker volume rm polito-os161-vol
->>
-polito-os161-vol
+If you just used docker for OS161, you can run this command safely
+``` bash
+docker prune -a
 ```
