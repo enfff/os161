@@ -51,6 +51,8 @@
 #include <version.h>
 #include "autoconf.h"  // for pseudoconfig
 
+// Lab 1, puoi eliminare se vuoi
+#include "hello.h"
 
 /*
  * These two pieces of data are maintained by the makefiles and build system.
@@ -210,6 +212,10 @@ kmain(char *arguments)
 {
 	boot();
 
+#if OPT_HELLO
+	hello();
+#endif
+	
 	menu(arguments);
 
 	/* Should not get here */

@@ -441,3 +441,8 @@ file		test/semunit.c
 file		test/kmalloctest.c
 file		test/fstest.c
 optfile net	test/nettest.c
+
+# Lab 1 
+
+defoption hello
+optfile  hello main/hello.c
